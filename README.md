@@ -8,6 +8,10 @@
 
 소확행
 
+## Members
+
+김민석, 유병각
+
 ## Goals
 
 고파스 sofo 게시판에 안암 일대의 음식점 중 랜덤으로 하나를 선택하여, 검색해주도록 하는 프로그램(chromedriver, selenium 이용)
